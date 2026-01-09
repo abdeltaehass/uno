@@ -65,6 +65,13 @@ Get your development environment ready and create your first app in minutes.
 
 3. **Build and Run**
 
+If you are new to the platform, these resources can help you ramp up quickly:
+
+* **[Uno Platform Documentation](https://aka.platform.uno/docs)**: End-to-end guides for setup, architecture, and platform-specific considerations.
+* **[Uno Platform Samples](https://aka.platform.uno/samples)**: Ready-to-run sample apps that demonstrate common patterns and UI layouts.
+* **[Uno Platform Blog](https://aka.platform.uno/blog)**: Product announcements, release highlights, and deep dives.
+* **[Uno Platform Discord](https://platform.uno/discord)**: Community help, Q&A, and announcements.
+
 ➡️ For detailed guides, visit the **[Official Uno Platform Documentation](https://aka.platform.uno/get-started)** on how to get started with Uno Platform.
 
 ---
@@ -87,7 +94,7 @@ Uno Platform unifies cross-platform development by abstracting platform-specific
   * macOS (via Skia Desktop)
   * iOS and Android (via [.NET](https://dotnet.microsoft.com/))
   * WebAssembly through the [.NET Runtime WebAssembly SDK](https://github.com/dotnet/runtime/tree/main/src/mono/wasm)
-  * Linux (via Skia Desktop with X11 and FrameBuffer)
+  * Linux (via Skia Desktop with X11 and framebuffer)
 * Dev loop:
   * Develop on your favorite IDE (Visual Studio, Rider, or VS Code) on your favorite OS (Windows, macOS, or Linux)
   * XAML and/or C# Hot Reload for WebAssembly, macOS, Linux, Windows, iOS, and Android
@@ -131,7 +138,7 @@ Uno Platform unifies cross-platform development by abstracting platform-specific
 ![YouTube Followers](https://img.shields.io/youtube/channel/subscribers/UC8GkqD6hsSkwYof6n2Wk1hg?label=Follow%20%40UnoPlatform&style=flat&color=f85977&logo=Youtube)
 
 * **[Official Documentation](https://aka.platform.uno/uno-docs-intro)**: The complete guide to Uno Platform.
-* **[Uno Platform Studio](https://aka.platform.uno/studio)**: Details for the set of productivity tools Uno Platform Studio, that includes:
+* **[Uno Platform Studio](https://aka.platform.uno/studio)**: Details for the productivity tools in Uno Platform Studio, including:
   * **[Hot Design](https://aka.platform.uno/hot-design)**
   * **[Hot Reload](https://aka.platform.uno/hot-reload)**
   * **[Design-to-Code](https://aka.platform.uno/Design-to-Code)**
